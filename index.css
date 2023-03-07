@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+}
+
+div {
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
+.first {
+    height: 300px;
+    width: 40%;
+    margin: 5%;
+    border: 2px solid black;
+}
+
+.second {
+    float: right;
+    width: 40%;
+    clear: both;
+    height: 300px;
+    background: #FFF;
+    border: 2px solid black;
+    border-radius: 2px;
+    margin: 5%;
+    padding: 10px;
+    transform: translateZ(1);
+}
+
+.third {
+    float: left;
+    width: 40%;
+    clear: both;
+    height: 300px;
+    background: #FFF;
+    border: 2px solid black;
+    border-radius: 2px;
+    margin: 5%;
+    padding: 10px;
+    transform: translateZ(1);
+}
+
+.fourth {
+    float: right;
+    width: 40%;
+    clear: both;
+    height: 300px;
+    background: #FFF;
+    border: 2px solid black;
+    border-radius: 2px;
+    margin: 5%;
+    padding: 10px;
+    transform: translateZ(1);
+}
+
+.fifth {
+    float: left;
+    width: 40%;
+    clear: both;
+    height: 300px;
+    background: #FFF;
+    border: 2px solid black;
+    border-radius: 2px;
+    margin: 5%;
+    padding: 10px;
+    transform: translateZ(1);
+}
+
+.sixth {
+    float: right;
+    width: 40%;
+    clear: both;
+    height: 300px;
+    background: #FFF;
+    border: 2px solid black;
+    border-radius: 2px;
+    margin: 5%;
+    padding: 10px;
+    transform: translateZ(1);
+}
+
+.welcome {
+    width: 100vw;
+    height: 50vh;
+    background-color: coral;
+}
