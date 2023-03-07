@@ -1,5 +1,8 @@
 body {
     margin: 0;
+    background-image: url(pin.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 div {
@@ -7,6 +10,9 @@ div {
 }
 
 h1 {
+    position: relative;
+    top: 100px;
+    color: white;
     text-align: center;
 }
 
@@ -14,7 +20,8 @@ h1 {
     height: 300px;
     width: 40%;
     margin: 5%;
-    border: 2px solid black;
+    border: 3px solid black;
+    background: #402e2e;
 }
 
 .second {
@@ -22,8 +29,8 @@ h1 {
     width: 40%;
     clear: both;
     height: 300px;
-    background: #FFF;
-    border: 2px solid black;
+    background: #402e2e;
+    border: 3px solid black;
     border-radius: 2px;
     margin: 5%;
     padding: 10px;
@@ -35,8 +42,8 @@ h1 {
     width: 40%;
     clear: both;
     height: 300px;
-    background: #FFF;
-    border: 2px solid black;
+    background: #402e2e;
+    border: 3px solid black;
     border-radius: 2px;
     margin: 5%;
     padding: 10px;
@@ -48,7 +55,7 @@ h1 {
     width: 40%;
     clear: both;
     height: 300px;
-    background: #FFF;
+    background: #402e2e;
     border: 2px solid black;
     border-radius: 2px;
     margin: 5%;
@@ -61,7 +68,7 @@ h1 {
     width: 40%;
     clear: both;
     height: 300px;
-    background: #FFF;
+    background: #402e2e;
     border: 2px solid black;
     border-radius: 2px;
     margin: 5%;
@@ -74,7 +81,7 @@ h1 {
     width: 40%;
     clear: both;
     height: 300px;
-    background: #FFF;
+    background: #402e2e;
     border: 2px solid black;
     border-radius: 2px;
     margin: 5%;
@@ -85,5 +92,5 @@ h1 {
 .welcome {
     width: 100vw;
     height: 50vh;
-    background-color: coral;
+    background-color: rgb(0, 0, 0);
 }
